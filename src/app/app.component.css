@@ -1,0 +1,9 @@
+.app_page{
+    display: flex;
+}
+.recommendedVideos{
+    flex: 0.8;
+}
+.sidebar{
+    flex: 0.2;
+}
